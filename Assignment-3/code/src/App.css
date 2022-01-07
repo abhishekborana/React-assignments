@@ -1,0 +1,93 @@
+.head{
+    text-align: center;
+    /* background-color:lightgray; */
+}
+.head > div{
+    width: 150px;
+    height: 120px;
+}
+
+.head-content1{
+    float: left;
+    padding-top:25px;
+}
+.head-content2{
+    display: inline-block;
+    margin: 0 auto;
+}
+.head-content3{
+    float: right;
+    padding-top:35px;
+}
+
+button{
+    font-size: 32px;
+    background-color: black;
+    color: white;
+    border-radius:7% ;
+}
+
+.image1{
+    width:50px;
+    height:50px;
+}
+
+
+/*  Second Div Appointment and all things */
+#secondDiv{
+    /* width: auto; */
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    border: 1px solid grey;
+}
+
+/*  Third Div Order info and all things */
+
+.head2{
+    text-align: center;
+    background-color:lightgray;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    border: 1px solid grey;
+
+}
+.head2 > div{
+    width: 150px;
+    height: 120px;
+}
+
+.head2-content1{
+    float: left;
+    padding-top:10px;
+}
+.head2-content2{
+    display: inline-block;
+    margin: 0 auto;
+    padding-top:9px;
+}
+.head2-content3{
+    float: right;
+    padding-top:10px;
+    padding-right: 25px;
+}
+
+/* Fourth Div which contains product list */
+.fourthDiv{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    border: 1px solid grey;
+}
+.Fcontent{
+    display: inline-block;
+    padding:10px;
+}
+#img{
+    width: 10px;
+    height: 10px;
+}
